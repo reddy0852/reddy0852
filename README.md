@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reddy0852
-- 👀 I’m interested in ...Cloud Technology and web technologies 
+- 👀 I’m interested in ...Cloud Technology and Big Data  
 - 🌱 I’m currently learning ... Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... reddyn564321@gmail.com
