@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @reddy0852
 - 👀 I’m interested in ...Cloud Technology and Big Data  
-- 🌱 I’m currently learning ... Azure
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Big Data Analytics
 - 📫 How to reach me ... vinayr896@gmail.com
 
 <!---
