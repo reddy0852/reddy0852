@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cloud Technology and Big Data  
 - 🌱 I’m currently learning ... Azure
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... reddyn564321@gmail.com
+- 📫 How to reach me ... vinayr896@gmail.com
 
 <!---
 reddy0852/reddy0852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
